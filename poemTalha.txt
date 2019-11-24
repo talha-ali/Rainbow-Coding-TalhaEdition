@@ -1,6 +1,7 @@
 This is a poem related to the Rainbow.
 
-Currently the Rainbow has only one color:
+Currently the Rainbow has two colors:
 1- Red.
+2- Green.
 
 End of the poem.
