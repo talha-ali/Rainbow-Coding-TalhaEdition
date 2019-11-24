@@ -1,7 +1,8 @@
 This is a poem related to the Rainbow.
 
-Currently the Rainbow has two colors:
+Currently the Rainbow has three colors:
 1- Red.
 2- Green.
+3- Yellow.
 
 End of the poem.
