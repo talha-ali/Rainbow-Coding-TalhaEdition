@@ -1,4 +1,4 @@
-This is a poem related to the Rainbow and the Unicorn.
+This is a poem related to the Rainbow and the Unicorn and the Pony.
 
 Currently the Rainbow has three colors:
 1- Red.
@@ -7,3 +7,4 @@ Currently the Rainbow has three colors:
 4- Yellow.
 
 End of the poem.
+Pony.
