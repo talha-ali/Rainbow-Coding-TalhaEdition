@@ -4,6 +4,7 @@ Currently the Rainbow has three colors:
 1- Red.
 2- Green.
 3- Unicorn.
-4- Yellow.
+4- Indigo.
+5- Yellow.
 
 End of the poem.
