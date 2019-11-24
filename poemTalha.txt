@@ -1,8 +1,9 @@
-This is a poem related to the Rainbow.
+This is a poem related to the Rainbow and the Unicorn.
 
 Currently the Rainbow has three colors:
 1- Red.
 2- Green.
-3- Yellow.
+3- Unicorn.
+4- Yellow.
 
 End of the poem.
